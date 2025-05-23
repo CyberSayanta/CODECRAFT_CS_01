@@ -31,8 +31,7 @@ For example:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
-   cd caesar-cipher
+   https://github.com/CyberSayanta/CODECRAFT_CS_01.git
 
 2. Run the program
 python caesar_cipher.py
